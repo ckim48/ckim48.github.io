@@ -1494,14 +1494,15 @@ section {
   background-color: #EA6E58;
   border-color: #EA6E58;
   transition: 0.5s;
+  height: 4px;
 }
 .btn-login:hover{
   background-color: #cc1616;
   border-color: #cc1616;
 }
-.btn-login2{
+/*.btn-login2{
   padding: 10px;
-}
+}*/
 .form-signin {
     width: 100%;
     max-width: 400px;
