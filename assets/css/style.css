@@ -1145,7 +1145,7 @@ section {
   color: #cc1616;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #f5a0a0;
+  border: 2px dotted black;
 }
 
 .contact .info-box h3 {
